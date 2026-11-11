@@ -2,10 +2,10 @@
 
 ## This is the headline of your second page
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
-
+A key advantage is user control. As a student, I rely on digital tools for writing, research, organising information and communication. With proprietary software, I depend on the company’s decisions about updates, prices and availability. Open-source software can be adapted to users’ needs, and others may continue maintaining it if its original developer stops providing support (Bretthauer, 2001).
+Another advantage is transparency. Since the code is public, developers and users can inspect it, identify errors and contribute improvements. Đurković et al. (2008) explain how collaboration can help detect problems and improve software. A wider community can therefore contribute knowledge beyond the original development team.
+Open-source software can also improve access to digital tools. Students, researchers and public institutions may not have the resources for expensive licences. Alternatives such as LibreOffice and Zotero support academic and administrative work without complete reliance on commercial products. However, open source does not necessarily mean cost-free: development, maintenance and support still require resources.
 ### Another headline
 
 1. Numbered lists work too
