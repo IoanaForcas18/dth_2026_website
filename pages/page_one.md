@@ -6,7 +6,18 @@ Open-source software refers to programmes whose source code is publicly availabl
 
 A key advantage is user control. As a student, I rely on digital tools for writing, research, organising information and communication. With proprietary software, I depend on the company’s decisions about updates, prices and availability. Open-source software can be adapted to users’ needs, and others may continue maintaining it if its original developer stops providing support (Bretthauer, 2001).
 Another advantage is transparency. Since the code is public, developers and users can inspect it, identify errors and contribute improvements. Đurković et al. (2008) explain how collaboration can help detect problems and improve software. A wider community can therefore contribute knowledge beyond the original development team.
+
 Open-source software can also improve access to digital tools. Students, researchers and public institutions may not have the resources for expensive licences. Alternatives such as LibreOffice and Zotero support academic and administrative work without complete reliance on commercial products. However, open source does not necessarily mean cost-free: development, maintenance and support still require resources.
+
+### References
+
+Bretthauer, D. (2001). Open source software: A history. University of Connecticut. 
+https://opencommons.uconn.edu/libr_pubs/7
+
+Đurković, J., Vuković, V., & Raković, L. (2008). Open source approach in software development – Advantages and disadvantages. Management Information Systems, 3(2), 29–33.
+https://ef.uns.ac.rs/mis/archive-pdf/2008%20-%20No2/MIS2008_2_5.pdf
+
+
 
 
 
